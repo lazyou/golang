@@ -1,0 +1,1 @@
+// interface 也支持和 struct 一样的 匿名字段
